@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haschamagula
+- 👋 Hi, I’m Thomas aka @Haschamagula
 - 👀 I’m interested in contacts with other IT enthusiasts who also like to learn and develop.
 - 🌱 I`m currently learning in Asible, Python3, CCNA and Securiy topics
 - 💞️ I’m looking to collaborate on ...
